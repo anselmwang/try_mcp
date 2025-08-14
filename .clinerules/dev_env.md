@@ -1,0 +1,1 @@
+当开发环境为windows环境中，请要求用户首先将vscode的default terminal变成powershell。同时，please use powershell syntax when running command.
